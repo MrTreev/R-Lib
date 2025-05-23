@@ -1,0 +1,10 @@
+Package: treevr
+Title: My Personal R Library
+Version: 0.0.0.9000
+Authors@R:
+    person("Oliver", "Patterson", , "mr.treev@gmail.com", role = c("aut", "cre"))
+Description: My Personal R Library
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
